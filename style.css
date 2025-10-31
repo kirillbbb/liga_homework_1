@@ -32,7 +32,7 @@ body {
     width: 1280px;
     height: 720px;
     display: grid;
-    grid-template-columns: 2fr 0.8fr 0.8fr 1fr 1fr;
+    grid-template-columns: 2fr 0.875fr 0.725fr 1fr 1fr;
     grid-template-rows: 288px 185px 247px;
     max-width: 1440px;
     margin: 0 auto;
