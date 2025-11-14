@@ -73,9 +73,9 @@ body {
     justify-content: center;
 }
 
-.culture__icon img {
-    height: 23px;
-    width: auto;
+.culture__icon-img {
+  height: 23px;
+  width: auto;
 }
 
 .culture__block--main-photo {
